@@ -1,1 +1,1 @@
-A random password generator using python.
+A random password generator using python
